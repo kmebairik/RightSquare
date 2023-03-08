@@ -1,0 +1,259 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "listingType": "buy",
+      "address":{
+      "country": "UK",
+      "city": "London",
+      "firstAddressLine": "123 Main Street",
+      "secondAddressLine": "Apt 4B",
+      "postcode": "SW1A 2AA" 
+      },
+      "propertyType": "house",
+      "beds": 3,
+      "baths": 2,
+      "furnishedType": "unfurnished",
+      "pictures": ["https://example.com/image1.jpg", "https://example.com/image2.jpg"],
+      "price": 10000
+    },
+    {
+      "id": "2",
+      "address": {
+      "country": "UK",
+      "city": "London",
+      "firstAddressLine": "456 Main Street",
+      "secondAddressLine": "",
+      "postcode": "SW1A 2AA"
+      },
+      "price": 2000,
+      "listingType": "rent",
+      "pictures": ["https://example.com/image3.jpg", "https://example.com/image4.jpg"],
+      "beds": 2,
+      "baths": 1,
+      "furnishedType": "furnished",
+      "propertyType": "apartment"
+    },
+    {
+      "id": "3",
+      "address": {
+      "country": "UK",
+      "city": "London",
+      "firstAddressLine": "789 Elm Street",
+      "secondAddressLine": "",
+      "postcode": "SW1A 2AA"
+      },
+      "price": 8000,
+      "listingType": "rent",
+      "pictures": ["https://example.com/image5.jpg", "https://example.com/image6.jpg"],
+      "beds": 4,
+      "baths": 3,
+      "furnishedType": "partially furnished",
+      "propertyType": "house"
+    },
+    {
+      "id": "4",
+      "address": {
+      "country": "UK",
+      "city": "London",
+      "firstAddressLine": "10 Downing Street",
+      "secondAddressLine": "",
+      "postcode": "SW1A 2AA"
+      },
+      "price": 5000000,
+      "listingType": "buy",
+      "pictures": ["https://example.com/image7.jpg", "https://example.com/image8.jpg"],
+      "beds": 6,
+      "baths": 4,
+      "furnishedType": "unfurnished",
+      "propertyType": "house"
+    },
+    {
+      "id": "5",
+      "address": {
+      "country": "UK",
+      "city": "London",
+      "firstAddressLine": "111 George Street",
+      "secondAddressLine": "",
+      "postcode": "SW1A 2AA"
+      },
+      "price": 3000,
+      "listingType": "rent",
+      "pictures": ["https://example.com/image9.jpg", "https://example.com/image10.jpg"],
+      "beds": 1,
+      "baths": 1,
+      "furnishedType": "furnished",
+      "propertyType": "apartment"
+    },
+    {
+      "id": "6",
+      "address": {
+      "country": "UK",
+      "city": "Manchester",
+      "firstAddressLine": "15 Oxford Street",
+      "secondAddressLine": "Flat 2",
+      "postcode": "M1 4PD"
+      },
+      "price": 1500,
+      "listingType": "rent",
+      "pictures": ["https://example.com/image11.jpg", "https://example.com/image12.jpg"],
+      "beds": 2,
+      "baths": 1,
+      "furnishedType": "unfurnished",
+      "propertyType": "apartment"
+    },
+    {
+      "id": "7",
+      "address": {
+      "country": "UK",
+      "city": "Birmingham",
+      "firstAddressLine": "27 Broad Street",
+      "secondAddressLine": "",
+      "postcode": "B1 2DY"
+      },
+      "price": 300000,
+      "listingType": "buy",
+      "pictures": ["https://example.com/image13.jpg", "https://example.com/image14.jpg"],
+      "beds": 4,
+      "baths": 2,
+      "furnishedType": "partially furnished",
+      "propertyType": "house"
+    },
+    {
+      "id": "8",
+      "address": {
+      "country": "UK",
+      "city": "Glasgow",
+      "firstAddressLine": "18 Sauchiehall Street",
+      "secondAddressLine": "",
+      "postcode": "G2 3ER"
+      },
+      "price": 2000,
+      "listingType": "rent",
+      "pictures": ["https://example.com/image15.jpg", "https://example.com/image16.jpg"],
+      "beds": 3,
+      "baths": 2,
+      "furnishedType": "furnished",
+      "propertyType": "apartment"
+    },
+    {
+      "id": "9",
+      "address": {
+      "country": "UK",
+      "city": "Bristol",
+      "firstAddressLine": "14 Park Street",
+      "secondAddressLine": "",
+      "postcode": "BS1 5JN"
+      },
+      "price": 900,
+      "listingType": "rent",
+      "pictures": ["https://example.com/image17.jpg", "https://example.com/image18.jpg"],
+      "beds": 1,
+      "baths": 1,
+      "furnishedType": "unfurnished",
+      "propertyType": "apartment"
+    },
+    {
+      "id": "10",
+      "address": {
+      "country": "UK",
+      "city": "Edinburgh",
+      "firstAddressLine": "30 Princes Street",
+      "secondAddressLine": "",
+      "postcode": "EH2 2AN"
+      },
+      "price": 400000,
+      "listingType": "buy",
+      "pictures": ["https://example.com/image19.jpg", "https://example.com/image20.jpg"],
+      "beds": 3,
+      "baths": 2,
+      "furnishedType": "furnished",
+      "propertyType": "house"
+    },
+    {
+      "id": "11",
+      "address": {
+      "country": "UK",
+      "city": "Manchester",
+      "firstAddressLine": "22 Market Street",
+      "secondAddressLine": "",
+      "postcode": "M1 1PW"
+      },
+      "price": 150000,
+      "listingType": "buy",
+      "pictures": ["https://example.com/image21.jpg", "https://example.com/image22.jpg"],
+      "beds": 2,
+      "baths": 1,
+      "furnishedType": "unfurnished",
+      "propertyType": "apartment"
+    },
+    {
+      "id": "12",
+      "address": {
+      "country": "UK",
+      "city": "Glasgow",
+      "firstAddressLine": "55 Argyle Street",
+      "secondAddressLine": "Flat 3B",
+      "postcode": "G2 8AH"
+      },
+      "price": 800,
+      "listingType": "rent",
+      "pictures": ["https://example.com/image23.jpg", "https://example.com/image24.jpg"],
+      "beds": 1,
+      "baths": 1,
+      "furnishedType": "furnished",
+      "propertyType": "apartment"
+    },
+    {
+      "id": "13",
+      "address": {
+      "country": "UK",
+      "city": "Belfast",
+      "firstAddressLine": "8 Donegall Square West",
+      "secondAddressLine": "Unit 2",
+      "postcode": "BT1 6JH"
+      },
+      "price": 350000,
+      "listingType": "buy",
+      "pictures": ["https://example.com/image25.jpg", "https://example.com/image26.jpg"],
+      "beds": 4,
+      "baths": 2,
+      "furnishedType": "unfurnished",
+      "propertyType": "house"
+    },
+    {
+      "id": "14",
+      "address": {
+      "country": "UK",
+      "city": "Cardiff",
+      "firstAddressLine": "12 Queen Street",
+      "secondAddressLine": "",
+      "postcode": "CF10 2BU"
+      },
+      "price": 1200,
+      "listingType": "rent",
+      "pictures": ["https://example.com/image27.jpg", "https://example.com/image28.jpg"],
+      "beds": 2,
+      "baths": 2,
+      "furnishedType": "partially furnished",
+      "propertyType": "apartment"
+    },
+    {
+      "id": "15",
+      "address": {
+      "country": "UK",
+      "city": "Birmingham",
+      "firstAddressLine": "45 New Street",
+      "secondAddressLine": "",
+      "postcode": "B2 4EG"
+      },
+      "price": 250000,
+      "listingType": "buy",
+      "pictures": ["https://example.com/image29.jpg", "https://example.com/image30.jpg"],
+      "beds": 3,
+      "baths": 2,
+      "furnishedType": "unfurnished",
+      "propertyType": "house"
+    }
+  ]
+}
